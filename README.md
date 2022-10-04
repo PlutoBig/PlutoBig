@@ -16,7 +16,9 @@
 > Jestem **BigPluto** - **Mateusz Paczkowski**.
 <br>
 Jestem Pluto mam 22 lata i interesuje sie programowaniem od 4 lat .
+<br><br>
 Jestem Ui Desginerem i Creatorem który projektuje swoje rzeczy w Adobe XD.
+<br><br>
 Mój nick discord : BigPluto#4736
 
 
