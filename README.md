@@ -9,11 +9,11 @@
 
 <br><br>
 
-# Siemano :wave:
+# Cześć :wave:
 
 <br>
 
-> chuj**Shinyx**.
+> Jestem **BigPluto** - **Mateusz Paczkowski**.
 chuj __LUA__ mam __chuj__.
 chuj
 
