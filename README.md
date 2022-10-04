@@ -18,7 +18,7 @@
 I'm Pluto, I'm 22 years old and have been interested in programming for 4 years.
 <br>
 I am a Ui Designer and a Creator who designs my stuff in Adobe XD.
-<br>
+<br><br>
 📫 Contact and Socials 🔎
 <br>
 <a href="https://discord.com/users/1021492223726071849" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
