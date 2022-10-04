@@ -12,7 +12,7 @@
 
 <br>
 
-> I am **BigPluto** - **Mateusz Paczkowski** 🇵🇱.
+> I am **BigPluto** - **Mateusz Paczkowski** .
 <br>
 I'm Pluto, I'm 22 years old and have been interested in programming for 4 years.
 <br>
