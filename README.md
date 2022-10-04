@@ -9,17 +9,17 @@
 
 <br><br>
 
-# Cześć :wave:
+# What's up :wave:
 
 <br>
 
-> Jestem **BigPluto** - **Mateusz Paczkowski**.
+> I am **BigPluto** - **Mateusz Paczkowski** 🇵🇱.
 <br>
-Jestem Pluto mam 22 lata i interesuje sie programowaniem od 4 lat .
+I'm Pluto, I'm 22 years old and have been interested in programming for 4 years.
 <br>
-Jestem Ui Desginerem i Creatorem który projektuje swoje rzeczy w Adobe XD.
+I am a Ui Designer and a Creator who designs my stuff in Adobe XD.
 <br>
-Mój nick discord : BigPluto#4736
+My discord nickname : BigPluto#4736
 
 
 
