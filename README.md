@@ -19,7 +19,8 @@ I'm Pluto, I'm 22 years old and have been interested in programming for 4 years.
 <br>
 I am a Ui Designer and a Creator who designs my stuff in Adobe XD.
 <br>
-#### 📫 Contact and Socials 🔎
+📫 Contact and Socials 🔎
+<br>
 <a href="https://discord.com/users/292279578389643264" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/KoRrNiK1" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/korrnik" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Steam-0D1117?style=flat-square&logo=steam&logoColor=white"></a>
