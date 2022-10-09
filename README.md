@@ -22,6 +22,7 @@ And i love coffee :)
 <br><br>
 Contact and Socials 
 <br>
+<a href="https://www.linkedin.com/in/mateusz-paczkowski-5830b0253/" target="_blank"><img alt="linkedin" align="center" src="https://img.shields.io/badge/-Linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=white"></a>
 <a href="https://discord.com/users/1021492223726071849" target="_blank"><img alt="discord" align="center" src="https://img.shields.io/badge/-Discord-0D1117?style=flat-square&logo=discord&logoColor=white"></a>
 <a href="https://twitter.com/paczkowskipluto" target="_blank"><img alt="twitter" align="center" src="https://img.shields.io/badge/-Twitter-0D1117?style=flat-square&logo=twitter&logoColor=white"></a>
 
