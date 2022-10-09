@@ -18,7 +18,7 @@ I'm Pluto, I'm 22 years old and have been interested in programming for 4 years.
 <br>
 I am a Ui Designer and a Creator who designs my stuff in Adobe XD.
 <br>
-And i love coffee :). 
+And i love coffee :)
 <br><br>
 Contact and Socials 
 <br>
